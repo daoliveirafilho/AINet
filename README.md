@@ -29,6 +29,7 @@ _Sou tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo d
     <img src="https://img.shields.io/badge/Website-rekall.log.br-orange?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
