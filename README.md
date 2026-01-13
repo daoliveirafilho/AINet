@@ -11,7 +11,6 @@ _Atendendo a privacidade de dados conforme &agrave; Lei Geral de Prote&ccedil;&a
 <!-- ABOUT ME -->
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
-[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-A12A2A?style=flat-square&logo=freertos&logoColor=white)](https://www.freertos.org/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)
@@ -24,12 +23,12 @@ _Atendendo a privacidade de dados conforme &agrave; Lei Geral de Prote&ccedil;&a
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)](https://www.bluetooth.com/)
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![ESP32](https://img.shields.io/badge/ESP32-E7332A?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![esp-idf](https://img.shields.io/badge/esp--idf-E7332A?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en/support/download/sdks-demos)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-A12A2A?style=flat-square&logo=freertos&logoColor=white)](https://www.freertos.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
