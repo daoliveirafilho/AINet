@@ -36,15 +36,3 @@ _Sou tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo d
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-A12A2A?style=flat-square&logo=freertos&logoColor=white)](https://www.freertos.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-<p align="left">
-  <a href="mailto:contato@rekall.log.br" alt="Email">
-    <img src="https://img.shields.io/badge/Email-contato@rekall.log.br-blue?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/rekalllog" alt="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-@rekalllog-green?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://rekall.log.br" alt="Website/Blog">
-    <img src="https://img.shields.io/badge/Website-rekall.log.br-orange?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
