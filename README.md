@@ -17,6 +17,7 @@ _Atendendo a privacidade de dados conforme &agrave; Lei Geral de Prote&ccedil;&a
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
@@ -28,7 +29,6 @@ _Atendendo a privacidade de dados conforme &agrave; Lei Geral de Prote&ccedil;&a
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-A12A2A?style=flat-square&logo=freertos&logoColor=white)](https://www.freertos.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
