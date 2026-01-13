@@ -34,5 +34,3 @@ _Sou tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo d
 [![ESP32](https://img.shields.io/badge/ESP32-E7332A?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![esp-idf](https://img.shields.io/badge/esp--idf-E7332A?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en/support/download/sdks-demos)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-A12A2A?style=flat-square&logo=freertos&logoColor=white)](https://www.freertos.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
