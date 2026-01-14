@@ -11,8 +11,7 @@ _Atendendo a privacidade de dados conforme &agrave; Lei Geral de Prote&ccedil;&a
 ---
 
 - Sou usu&aacute;rio de FreeBSD e defensor do software livre.
-- Tenho experi&ecirc;ncia em microcontroladores como ESP32 ou Arduino.
-- Aberto a discutir sistemas embarcados ou novos projetos com PHP.
+- Aberto a discutir sistemas embarcados ou projetos envolvendo telemetria.
 
 _Sou tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo de baixo n&iacute;vel, confi&aacute;vel, eficiente e bem projetado. Para mim, C &eacute; a ferramenta perfeita para construir software que n&atilde;o seja apenas perform&aacute;tico, mas tamb&eacute;m seguro e elegante desde a sua concep&ccedil;&atilde;o._
 
