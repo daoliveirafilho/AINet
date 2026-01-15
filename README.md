@@ -6,7 +6,7 @@
 
 # ...em desenvolvimento
 ![Logo](assets/images/logo.svg)
-_Atendendo a privacidade de dados conforme &agrave; Lei Geral de Prote&ccedil;&atilde;o de Dados, lei nº 13.709/2018. Caso n&atilde;o tenha interesse em manter suas informa&ccedil;&otilde;es pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para dpo.br@rekall.log.br._
+_Atendendo a privacidade de dados conforme &agrave; Lei Geral de Prote&ccedil;&atilde;o de Dados, lei nº 13.709/2018. Caso n&atilde;o tenha interesse em manter suas informa&ccedil;&otilde;es pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para dpo@rekall.log.br._
 
 ---
 
