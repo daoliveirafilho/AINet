@@ -6,6 +6,8 @@
 
 ![esp_idf.1](assets/images/esp-idf/esp_idf.1.png)
 ![esp_idf.2](assets/images/esp-idf/esp_idf.2.png)
+![esp_idf.3](assets/images/esp-idf/esp_idf.3.png)
+![esp_idf.4](assets/images/esp-idf/esp_idf.4.png)
 
 
 
