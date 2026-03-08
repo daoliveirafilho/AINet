@@ -15,6 +15,8 @@
 - Sou usu&aacute;rio de FreeBSD e defensor do software livre.
 - Aberto a discutir sistemas embarcados ou projetos envolvendo telemetria.
 
+![Logo](assets/images/logo.svg)
+
 _Sou tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo de baixo n&iacute;vel, confi&aacute;vel, eficiente e bem projetado. Para mim, C &eacute; a ferramenta perfeita para construir software que n&atilde;o seja apenas perform&aacute;tico, mas tamb&eacute;m seguro e elegante desde a sua concep&ccedil;&atilde;o._
 
 ---
