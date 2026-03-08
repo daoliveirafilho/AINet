@@ -1,10 +1,24 @@
 <!-- ABOUT THE PROJECT -->
 
-# Servidor de configura&ccedil;&atilde;o autom&aacute;tica (ACS) como ferramenta para um sistema multiagentes (MAS).
+# Aquisi&ccedil;&atilde;o de dados com um modelo de implanta&ccedil;&atilde;o flex&iacute;vel e um conjunto de pol&iacute;ticas e procedimentos que atuam na continuidade, recupera&ccedil;&atilde;o de ambientes e replica&ccedil;&atilde;o de dados armazenados, suportando aplica&ccedil;&otilde;es de TI de modo que permane&ccedil;am est&aacute;veis.
 
-## Vulnerabilidades de seguran&ccedil;a s&atilde;o inevit&aacute;veis, mas &eacute; poss&iacute;vel lidar com elas de forma respons&aacute;vel.
+# Eliminando a complexidade dos gateways tradicionais e entregando seus dados diretamente em uma infraestrutura distribu&iacute;da assegurando performance e escalabilidade.
 
-## Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, com o objetivo de reduzir a superf&iacute;cie de ataque.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![Logo](assets/images/logo.svg)
 _Atendendo a privacidade de dados conforme &agrave; Lei Geral de Prote&ccedil;&atilde;o de Dados, lei nº 13.709/2018. Caso n&atilde;o tenha interesse em manter suas informa&ccedil;&otilde;es pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para dpo@rekall.log.br._
