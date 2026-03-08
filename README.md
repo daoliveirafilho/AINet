@@ -3,6 +3,12 @@
 
 ### Aquisi&ccedil;&atilde;o de dados com um modelo de implanta&ccedil;&atilde;o flex&iacute;vel e um conjunto de pol&iacute;ticas e procedimentos que atuam na continuidade, recupera&ccedil;&atilde;o de ambientes e replica&ccedil;&atilde;o de dados armazenados, suportando aplica&ccedil;&otilde;es de TI de modo que permane&ccedil;am est&aacute;veis.
 
+
+![esp_idf.1](assets/images/esp-idf/esp_idf.1.png)
+![esp_idf.2](assets/images/esp-idf/esp_idf.2.png)
+
+
+
 ### Eliminando a complexidade dos gateways tradicionais e entregando seus dados diretamente em uma infraestrutura distribu&iacute;da assegurando performance e escalabilidade.
 
 
