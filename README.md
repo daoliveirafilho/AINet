@@ -8,7 +8,7 @@
 ![esp_idf.3](assets/images/esp-idf/esp_idf.3.png)
 ![esp_idf.4](assets/images/esp-idf/esp_idf.4.png)
 
-### Eliminando a complexidade dos gateways tradicionais e entregando seus dados diretamente em uma infraestrutura distribu&iacute;da assegurando performance e escalabilidade.
+### Eliminando a complexidade dos gateways tradicionais e entregando seus dados diretamente em uma infraestrutura distribu&iacute;da, assegurando performance e escalabilidade.
 
 ![esp_idf.5](assets/images/esp-idf/esp_idf.5.png)
 ![esp_idf.6](assets/images/esp-idf/esp_idf.6.png)
