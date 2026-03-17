@@ -5,9 +5,6 @@
 
 ### Eliminando a complexidade dos gateways tradicionais e entregando seus dados diretamente em uma infraestrutura distribu&iacute;da, assegurando performance e escalabilidade.
 
-![esp_idf.5](assets/images/esp-idf/esp_idf.5.png)
-![esp_idf.6](assets/images/esp-idf/esp_idf.6.png)
-
 ---
 
 _Tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo de baixo n&iacute;vel, confi&aacute;vel, eficiente e bem projetado. Para mim, C &eacute; a ferramenta perfeita para construir software que n&atilde;o seja apenas perform&aacute;tico, mas tamb&eacute;m seguro e elegante desde a sua concep&ccedil;&atilde;o._
