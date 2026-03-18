@@ -94,8 +94,6 @@ LDk4yEoq9WyvfeloeNkyT2K7LZyYO0lrQ0AgAiB4DIBAse7Ue0dRVx/XhVcTIhJH
 -----END CERTIFICATE-----
 ```
 
-Um banco de dados de séries temporais é construído especificamente para lidar com métricas e eventos ou medições que possuem registro de data e hora. O Supabase funciona como um TSDB (Time Series Database) robusto ao utilizar o PostgreSQL com a extensão TimescaleDB nativa. Ele combina armazenamento de dados temporais de alto desempenho, particionamento automático, retenção de dados e consultas SQL em tempo real, ideal para métricas, IoT e logs. O supabase armazena a coleta de dados transmitida pelos esp32s eliminando a complexidade dos gateways tradicionais e entregando seus dados diretamente em uma infraestrutura distribuída, assegurando performance e escalabilidade.
-
 ---
 
 _Tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo de baixo n&iacute;vel, confi&aacute;vel, eficiente e bem projetado. Para mim, C &eacute; a ferramenta perfeita para construir software que n&atilde;o seja apenas perform&aacute;tico, mas tamb&eacute;m seguro e elegante desde a sua concep&ccedil;&atilde;o._
