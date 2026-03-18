@@ -54,11 +54,9 @@ Join Medium for free to get updates from this writer.
 
 Remember me for faster sign in
 
-O armazenamento dos dados com Supabase é bastante recomendado, por permitir criar tabelas com regras de acesso.
-Tabela dados
+O armazenamento dos dados com Supabase é bastante recomendado, por permitir criar tabelas com regras de acesso. Após criar um projeto e efetuar a configuração da chave secreta, pode configurar o arquivo ~/esp/esp-idf/programa/main/programa.c, onde estes valores devem ser setados:
 
-Após criar um projeto, com uam tabela e efetuar a configuração da chave secreta, estes valores devem ser setados dentro do arquivo ~/esp/esp-idf/programa/main/programa.c.
-
+```
 ...
 const char *apikey = "sb_secret_???????????????????????????????";
 ...
@@ -66,13 +64,13 @@ esp_http_client_config_t config =
 {
 .url = "https://????????????????????.supabase.co/rest/v1/nome-da-tabela",
 ...
+```
 
 A configuração do certificado é necessária para a comunicação do dispositivo com o endpoint. Deve-se extrair o certificado com o comando openssl, editar o arquivo com o editor de textos de sua preferência e salvá-lo no diretório main do projeto.
 
 #openssl s_client -showcerts -connect ????????????????????.supabase.co:443 >~/esp/esp-idf/programa/main/cert.pem
 
 Apenas o primeiro bloco do certificado deve permanecer no arquivo cert.pem, como no exemplo abaixo.
-
 
 -----BEGIN CERTIFICATE-----
 BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS83
@@ -103,13 +101,7 @@ LDk4yEoq9WyvfeloeNkyT2K7LZyYO0lrQ0AgAiB4DIBAse7Ue0dRVx/XhVcTIhJH
 1nR9K/XKbs83q5HI1g==
 -----END CERTIFICATE-----
 
-Recompilando o projeto podemos retornar ao modo monitor, pode-se perceber que o dispositivo conecta-se ao access point, recebe as configurações de rede, coleta os dados e os transmite.
-esp32 log monitor
-
-Um banco de dados de séries temporais é construído especificamente para lidar com métricas e eventos ou medições que possuem registro de data e hora. O Supabase funciona como um TSDB (Time Series Database) robusto ao utilizar o PostgreSQL com a extensão TimescaleDB nativa. Ele combina armazenamento de dados temporais de alto desempenho, particionamento automático, retenção de dados e consultas SQL em tempo real, ideal para métricas, IoT e logs.
-Time-series database
-
-O supabase armazena a coleta de dados transmitida pelos esp32s eliminando a complexidade dos gateways tradicionais e entregando seus dados diretamente em uma infraestrutura distribuída, assegurando performance e escalabilidade.
+Um banco de dados de séries temporais é construído especificamente para lidar com métricas e eventos ou medições que possuem registro de data e hora. O Supabase funciona como um TSDB (Time Series Database) robusto ao utilizar o PostgreSQL com a extensão TimescaleDB nativa. Ele combina armazenamento de dados temporais de alto desempenho, particionamento automático, retenção de dados e consultas SQL em tempo real, ideal para métricas, IoT e logs. O supabase armazena a coleta de dados transmitida pelos esp32s eliminando a complexidade dos gateways tradicionais e entregando seus dados diretamente em uma infraestrutura distribuída, assegurando performance e escalabilidade.
 
 ---
 
