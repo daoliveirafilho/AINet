@@ -29,7 +29,7 @@ Defina ESP32 como o alvo e execute o compilador do projeto.
 #idf.py set-target esp32
 #idf.py build
 ```
-O aplicativo e todos os componentes serão compilados, gerando em seguida o carregador de inicialização, a tabela de partições e os binários do aplicativo. Para gravar os arquivos binários que você acabou de compilar para o ESP32 na etapa anterior, você precisa executar o seguinte comando:
+O aplicativo e todos os componentes serão compilados, gerando em seguida o carregador de inicialização, a tabela de partições e os binários do aplicativo. Para gravar os arquivos binários que você acabou de compilar para o ESP32 na etapa anterior, você precisa executar o seguinte comando.
 
 ```
 #python -m esptool --chip esp32 -b 115200 --before default_reset --after hard_reset write_flash --flash_mode dio --flash_freq 40m --flash_size 4MB 0x1000 build/bootloader/bootloader.bin 0x8000 build/partition_table/partition-table.bin 0x10000 build/program.bin
@@ -43,7 +43,7 @@ Se não houver problemas ao final do processo de gravação da memória flash, a
 
 Para interromper o modo monitor use o atalho de teclado ctrl+] ou ctrl+T seguido de ctrl+X.
 
-O armazenamento dos dados com Supabase é bastante recomendado, por permitir criar tabelas com regras de acesso. Após criar um projeto e efetuar a configuração da chave secreta, pode configurar o arquivo ~/esp/esp-idf/programa/main/programa.c, onde estes valores devem ser setados:
+O armazenamento dos dados com Supabase é bastante recomendado, por ser extremamente fácil criar uma conta permitindo que desenvolvedores configurem um backend PostgreSQL completo em minutos. Após criar um projeto e efetuar a configuração da chave secreta, pode configurar o arquivo ~/esp/esp-idf/programa/main/programa.c, onde estes valores devem ser setados.
 
 ```
 ...
