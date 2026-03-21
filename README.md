@@ -61,39 +61,6 @@ A configuração do certificado é necessária para a comunicação do dispositi
 #openssl s_client -showcerts -connect ????????????????????.supabase.co:443 >~/esp/esp-idf/programa/main/cert.pem
 ```
 
-Apenas o primeiro bloco do certificado deve permanecer no arquivo cert.pem, como no exemplo abaixo.
-
-```
------BEGIN CERTIFICATE-----
-BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS83
-RWcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwGAYDVR0R
-BBEwD4INcmVrYWxsLmxvZy5icjATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8E
-LzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvSzBVVkFLZTVOOTQuY3Js
-MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYADleUvPOuqT4zGyyZB7P3kN+bwj1x
-MiXdIaklrGHFTiEAAAGc+QTPHgAABAMARzBFAiBO7b0+okE2KoTQ2M8ibmLHp046
-SKiH6Msv0F/w+Fko3gIhAJgWNOYTaBF1QaKznCPYN15Iq96gT6YVexxey0K0dR0Y
-AHYAyzj3FYl8hKFEX1vB3fvJbvKaWc1HCmkFhbDLFMMUWOcAAAGc+QTPeQAABAMA
-RzBFAiBUQceFC4HxLfNb7ceSZLZ5YiJP4d9EVBwMM2zCirgn+gIhAJLPRKbIW77p
-mafdwLZWGdkA4O/xlYohh4r/zcUcqnZFMAoGCCqGSM49BAMCA0cAMEQCIHPkOdeX
-VYXUklbYGM/Okl9hEyblDQlPViPmcDL7n+O/199WhaePEcmLHlFm/knCYNhGQi4D
-tDg71UXpohTtFGRBhf2jggJGMIICQjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAww
-CgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUG9hGwjM1bECgVq7D
-nmHcOnyD600wHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYB
-BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS83
-RWcwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwGAYDVR0R
-BBEwD4INcmVrYWxsLmxvZy5icjATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8E
-LzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvSzBVVkFLZTVOOTQuY3Js
-MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYADleUvPOuqT4zGyyZB7P3kN+bwj1x
-MiXdIaklrGHFTiEAAAGc+QTPHgAABAMARzBFAiBO7b0+okE2KoTQ2M8ibmLHp046
-SKiH6Msv0F/w+Fko3gIhAJgWNOYTaBF1QaKznCPYN15Iq96gT6YVexxey0K0dR0Y
-AHYAyzj3FYl8hKFEX1vB3fvJbvKaWc1HCmkFhbDLFMMUWOcAAAGc+QTPeQAABAMA
-RzBFAiBUQceFC4HxLfNb7ceSZLZ5YiJP4d9EVBwMM2zCirgn+gIhAJLPRKbIW77p
-mafdwLZWGdkA4O/xlYohh4r/zcUcqnZFMAoGCCqGSM49BAMCA0cAMEQCIHPkOdeX
-LDk4yEoq9WyvfeloeNkyT2K7LZyYO0lrQ0AgAiB4DIBAse7Ue0dRVx/XhVcTIhJH
-1nR9K/XKbs83q5HI1g==
------END CERTIFICATE-----
-```
-
 ---
 
 _Tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo de baixo n&iacute;vel, confi&aacute;vel, eficiente e bem projetado. Para mim, C &eacute; a ferramenta perfeita para construir software que n&atilde;o seja apenas perform&aacute;tico, mas tamb&eacute;m seguro e elegante desde a sua concep&ccedil;&atilde;o._
