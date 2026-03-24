@@ -3,7 +3,7 @@
 
 ## Aquisição de dados com um modelo de implantação flexível e um conjunto de políticas e procedimentos que atuam na continuidade, recuperação de ambientes e replicação de dados armazenados, suportando aplicações de TI de modo que permaneçam estáveis.
 
-A instalacao do esp-idf ocorre de forma simples, com todos os pré-requisitos instalados você precisa das bibliotecas de software fornecidas pela Espressif no repositório ESP-IDF . Consulte a seção Versões do ESP-IDF para obter informações sobre qual versão usar em uma determinada situação.
+Certifique-se de que já tenha cumprido os pré-requisitos de configuração do ambiente.
 
 ```
 #mkdir -p ~/esp
@@ -14,22 +14,18 @@ A instalacao do esp-idf ocorre de forma simples, com todos os pré-requisitos in
 #. ./export.sh
 ```
 
-Efetue o download do projeto em https://github.com/daoliveirafilho/AINet, após descompactá-lo no diretório de sua escolha, inicie um novo projeto.
+Clone o repositório de modelo, em https://github.com/daoliveirafilho/AINet, ou crie seu próprio repositório inicial de firmware.
 
 ```
 #cd ~/esp/esp-idf/
 #mkdir ~/esp/esp-idf/programa
 #cd ~/esp/esp-idf/programa/
 #cp -R ~/Downloads/AINet/projeto/* .
-```
-
-Defina ESP32 como o alvo e execute o compilador do projeto.
-
-```
 #idf.py set-target esp32
 #idf.py build
 ```
-O aplicativo e todos os componentes serão compilados, gerando em seguida o carregador de inicialização, a tabela de partições e os binários do aplicativo. Para gravar os arquivos binários que você acabou de compilar para o ESP32 na etapa anterior, você precisa executar o seguinte comando.
+
+Adicione ou modifique seus códigos para executar funções e atender aos requisitos. Compile o aplicativo e todos os componentes, gerando em seguida o carregador de inicialização, a tabela de partições e os binários do aplicativo. Para gravar os arquivos binários que você acabou de compilar para o ESP32 na etapa anterior, você precisa executar o seguinte comando.
 
 ```
 #python -m esptool --chip esp32 -b 115200 --before default_reset --after hard_reset write_flash --flash_mode dio --flash_freq 40m --flash_size 4MB 0x1000 build/bootloader/bootloader.bin 0x8000 build/partition_table/partition-table.bin 0x10000 build/program.bin
