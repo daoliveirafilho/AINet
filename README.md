@@ -24,3 +24,6 @@ _Tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo de ba
 ![C](assets/images/badges/C.svg)
 ![esp-idf](assets/images/badges/esp-idf.svg)
 ![FreeRTOS](assets/images/badges/freertos.svg)
+
+![esp-idf](assets/images/badges/medium.svg)
+![FreeRTOS](assets/images/badges/youtube.svg)
