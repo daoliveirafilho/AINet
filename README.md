@@ -3,6 +3,8 @@
 
 ## Aquisição de dados com um modelo de implantação flexível e um conjunto de políticas e procedimentos que atuam na continuidade, recuperação de ambientes e replicação de dados armazenados, suportando aplicações de TI de modo que permaneçam estáveis.
 
+![Rekall](assets/images/logo.svg)
+
 ---
 
 _Tecn&oacute;logo de redes de computadores dedicado em criar c&oacute;digo de baixo n&iacute;vel, confi&aacute;vel, eficiente e bem projetado. Para mim, C &eacute; a ferramenta perfeita para construir software que n&atilde;o seja apenas perform&aacute;tico, mas tamb&eacute;m seguro e elegante desde a sua concep&ccedil;&atilde;o._
