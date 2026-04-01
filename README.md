@@ -1,9 +1,9 @@
 <!-- ABOUT THE PROJECT -->
-# AINet
-
-## Aquisição de dados com um modelo de implantação flexível e um conjunto de políticas e procedimentos que atuam na continuidade, recuperação de ambientes e replicação de dados armazenados, suportando aplicações de TI de modo que permaneçam estáveis.
+# AINet 1.0.1 Release!
 
 ![Rekall](assets/images/logo.svg)
+
+## Aquisição de dados com um modelo de implantação flexível e um conjunto de políticas e procedimentos que atuam na continuidade, recuperação de ambientes e replicação de dados armazenados, suportando aplicações de TI de modo que permaneçam estáveis.
 
 ---
 
