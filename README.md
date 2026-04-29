@@ -6,7 +6,6 @@
 ---
 
 ![Apache](assets/images/badges/apache.svg)
-![FreeBSD](assets/images/badges/freebsd.svg)
 ![Github](assets/images/badges/github.svg)
 ![Grafana](assets/images/badges/grafana.svg)
 ![Huawei](assets/images/badges/huawei.svg)
