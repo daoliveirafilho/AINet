@@ -21,9 +21,9 @@ Integração com a api do Telegram;
 
 ### Sobre o ambiente de desenvolvimento
 
-Kit de desenvolvimento ESP32 com 38 pinos;
-
 Framework ESP-IDF v5.x; ferramenta ESP Utility;
+
+Kit de desenvolvimento ESP32 com 38 pinos;
 
 ---
 
