@@ -17,7 +17,7 @@ Integração com a api do Supabase;
 
 Integração com a api do Telegram;
 
-### Sobre o ambiente de desenvolvimento
+### Sobre o ambiente de desenvolvimento:
 
 Framework ESP-IDF v5.x; ferramenta ESP Utility;
 
