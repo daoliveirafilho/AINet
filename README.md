@@ -5,9 +5,7 @@
 
 ## Implementando um cliente REST API moderno e leve
 
-### Requisitos de funcionalidades do dispositivo
-
-Esta é uma breve lista das funções esperadas do dispositivo:
+### Esta é uma breve lista das funções esperadas do dispositivo:
 
 Capacidade de controlar display oled;
 
