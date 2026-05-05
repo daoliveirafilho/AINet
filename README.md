@@ -3,6 +3,20 @@
 
 ## Aquisição de dados com um modelo de implantação flexível e um conjunto de políticas e procedimentos que atuam na continuidade, recuperação de ambientes e replicação de dados armazenados, suportando aplicações de TI de modo que permaneçam estáveis.
 
+## Implementando um cliente REST API moderno e leve
+
+### Requisitos de funcionalidades do dispositivo
+
+Esta é uma breve lista das funções esperadas do dispositivo:
+
+Capacidade de controlar display oled;
+
+Capacidade de comunicação via canal serial (UART);
+
+Capacidade de comunicação via BLE, I2C, LoRaWAN e Wi-Fi.
+
+Sobre o ambiente de desenvolvimento: Kit de desenvolvimento ESP32 com 38 pinos; Framework ESP-IDF v5.x; ferramenta ESP Utility.
+
 ---
 
 ![Apache](assets/images/badges/apache.svg)
