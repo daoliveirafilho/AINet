@@ -13,13 +13,17 @@ Capacidade de controlar display oled;
 
 Capacidade de comunicação via canal serial (UART);
 
-Capacidade de comunicação via BLE, I2C, LoRaWAN e Wi-Fi.
+Capacidade de comunicação via BLE, I2C, LoRaWAN e Wi-Fi;
 
-Integração com a api do Supabase.
+Integração com a api do Supabase;
 
-Integração com a api do Telegram.
+Integração com a api do Telegram;
 
-Sobre o ambiente de desenvolvimento: Kit de desenvolvimento ESP32 com 38 pinos; Framework ESP-IDF v5.x; ferramenta ESP Utility.
+### Sobre o ambiente de desenvolvimento
+
+Kit de desenvolvimento ESP32 com 38 pinos;
+
+Framework ESP-IDF v5.x; ferramenta ESP Utility;
 
 ---
 
