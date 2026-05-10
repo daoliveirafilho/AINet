@@ -1,8 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 # Implementando um cliente REST API moderno e leve
 
-## Aquisição de dados com um modelo de implantação flexível e um conjunto de políticas e procedimentos que atuam na continuidade, recuperação de ambientes e replicação de dados armazenados, suportando aplicações de TI de modo que permaneçam estáveis.
-
 ### Esta é uma breve lista das funções esperadas do dispositivo:
 
 Capacidade de controlar display oled;
