@@ -117,7 +117,7 @@ return ESP_OK;
 void https_request(void)
 {
 char bufferA[256];
-const char *apikey = "sb_secret_???????????????????????????????";
+const char *apikey = "<YOUR_ANON_KEY>";
 snprintf(bufferA, sizeof(bufferA), "Bearer %s", apikey);
 printf("\n%s\n", bufferA);
 const char *bearer = bufferA;
@@ -133,7 +133,7 @@ printf("\n%s\n", bufferB);
 const char *post_data = bufferB;
 esp_http_client_config_t config =
 {
-.url = "https://????????????????????.supabase.co/rest/v1/nome-da-tabela",
+.url = "https://<nome-do-projeto>.supabase.co/rest/v1/<nome-da-tabela>",
 .event_handler = _http_event_handler,
 .crt_bundle_attach = esp_crt_bundle_attach,
 .buffer_size_tx = 1024,
