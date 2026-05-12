@@ -7,7 +7,7 @@ Capacidade de controlar display oled;
 
 Capacidade de comunicação via canal serial (UART);
 
-Capacidade de comunicação via BLE, I2C, LoRaWAN e Wi-Fi;
+Capacidade de comunicação via Wi-Fi (2.4GHz);
 
 Integração com a api do Supabase;
 
