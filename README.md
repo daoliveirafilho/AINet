@@ -3,11 +3,11 @@
 
 ### Esta é uma breve lista das funções esperadas do dispositivo:
 
-Capacidade de controlar display oled;
+Capacidade de comunicação via Inter-Integrated Circuit (I2C)
 
 Capacidade de comunicação via canal serial (UART);
 
-Capacidade de comunicação via Wi-Fi (2.4GHz);
+Capacidade de comunicação via Wi-Fi (STA mode);
 
 Integração com a api do Supabase;
 
