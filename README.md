@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# <a href="https://medium.com/@da.oliveira.filho">Implementando um cliente REST API moderno e leve</a>
+# Implementando um cliente REST API moderno e leve, leia mais em <a href="https://medium.com/@da.oliveira.filho">medium.com/@da.oliveira.filho</a>
 
 ### Esta é uma breve lista das funções esperadas do dispositivo:
 
