@@ -21,18 +21,18 @@ Kit de desenvolvimento ESP32 com 38 pinos;
 
 ---
 
-![Apache](assets/images/badges/apache.svg)
-![Github](assets/images/badges/github.svg)
-![Grafana](assets/images/badges/grafana.svg)
-![Huawei](assets/images/badges/huawei.svg)
-![Nginx](assets/images/badges/nginx.svg)
-![Ollama](assets/images/badges/ollama.svg)
-![PHP](assets/images/badges/php.svg)
-![Telegram](assets/images/badges/telegram.svg)
+![Apache](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/apache.svg)
+![Github](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/github.svg)
+![Grafana](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/grafana.svg)
+![Huawei](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/huawei.svg)
+![Nginx](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/nginx.svg)
+![Ollama](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/ollama.svg)
+![PHP](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/php.svg)
+![Telegram](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/telegram.svg)
 
-![Bash](assets/images/badges/bash.svg)
-![Bluetooth](assets/images/badges/ble.svg)
-![C](assets/images/badges/C.svg)
-![esp-idf](assets/images/badges/esp-idf.svg)
-![FreeRTOS](assets/images/badges/freertos.svg)
+![Bash](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/bash.svg)
+![Bluetooth](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/ble.svg)
+![C](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/C.svg)
+![esp-idf](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/esp-idf.svg)
+![FreeRTOS](https://github.com/daoliveirafilho/AINet/blob/master/assets/images/badges/assets/images/badges/freertos.svg)
 
